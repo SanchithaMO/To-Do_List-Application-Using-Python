@@ -1,5 +1,4 @@
 # To-Do_List-Application-Using-Python
-Certainly! Below is an explanation of the provided Python code for a simple To-Do App using Tkinter, along with a suggested README.md:
 
 ### To-Do App with Tkinter
 
